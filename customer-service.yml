@@ -1,0 +1,5 @@
+server:
+  port: 5200
+
+eureka:
+  client:
